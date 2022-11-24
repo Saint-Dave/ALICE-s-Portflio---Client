@@ -283,9 +283,8 @@ header nav li a:hover{
 .slider-nav-prev {
     background-color: #B1D4E0;
     border-radius: 50%;
-    color: #000;
-    display: inline-flex;
-    height: 1.5rem;
+    color: #0C2D48;
+    height: 10px;
     justify-content: center;
     padding: 30px;
     position: absolute;
@@ -293,26 +292,25 @@ header nav li a:hover{
     width: 1.5rem;
     left: 5px;
     bottom: 50%;
+    text-align: center;
+    
   }
   .slider-nav-next {
     background-color: #B1D4E0;
-    border-radius: 50%;
-    color: #000;
-    height: 1.5rem;
-    padding: 30px;
+    border-radius: 50px;
+    color: #0C2D48;
+    height: 10px;
+    padding: 20px 20px;
+    /* padding-bottom: 10px; */
     position: absolute;
     text-decoration: none;
+    display: flex;
+    text-align: center;
+    justify-content: center;
     width: 1.5rem;
     right: 5px;
     bottom: 50%;
-  }
-.slider-nav:hover,
-.slider-nav:active {
-  background-color: #000;
-  color: #fff;
-}
-.carousel__nav {
-    padding: 1.25rem .5rem;
+    font-size: 30px;
   }
 /* CONTACT */
 .contact{
