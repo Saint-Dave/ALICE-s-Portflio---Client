@@ -19,7 +19,7 @@ header{
 header nav ul{
     list-style-type: none;
     margin: 0;
-    padding: 0;  
+    padding: 0;
 }
 header nav li{
     float: right;
@@ -161,7 +161,7 @@ header nav li a:hover{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
-    
+
 }
 .about-image{
     float: right;
@@ -267,9 +267,9 @@ header nav li a:hover{
     display: flex;
 }
 .project-box h3{
-    font-size: 50px; 
-    color:#B1D4E0; 
-    font-weight: 900; 
+    font-size: 50px;
+    color:#B1D4E0;
+    font-weight: 900;
     padding-top: 100px;
 }
 .project-box p{
@@ -308,7 +308,7 @@ header nav li a:hover{
     font-size: 20px;
     text-align: center;
     border: 2px solid #B1D4E0;
-    
+
   }
   .slider-nav-next {
     background-color: #B1D4E0;
@@ -413,7 +413,7 @@ header{
 header nav ul{
     list-style-type: none;
     margin: 0;
-    padding: 0;  
+    padding: 0;
 }
 header nav li{
     float: right;
@@ -439,7 +439,7 @@ header nav li a:hover{
     margin-top: 15px;
     margin-left: 50px;
 }
-.checkbtn{
+/* .checkbtn{
     display: block;
   }
   ul{
@@ -459,7 +459,7 @@ header nav li a:hover{
   }
   nav ul li a{
     font-size: 20px;
-  }
+  } */
     .home{
         background-color: #0C2D48;
         width: 100%;
@@ -542,7 +542,7 @@ header nav li a:hover{
     display: grid;
     grid-template-columns: 1fr;
     gap: 20px;
-    
+
 }
 .about-image{
     float: right;
@@ -644,5 +644,5 @@ header nav li a:hover{
 .contact button:hover{
     background-color: #B1D4E0;
     color: #0C2D48;
-}  
+}
   }
